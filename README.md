@@ -1,4 +1,4 @@
-# Crypto-DarkMode
+#Crypto-DarkMode
 
 A Small Project that displays current Crypto Trends
 
